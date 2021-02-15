@@ -1,0 +1,22 @@
+{
+  "name": "mistercow1.dev",
+  "version": "1.0.0",
+  "description": "MisterCow1's website. The website does not exist yet so don't bother tring the link",
+  "main": "index.js",
+  "author": "MisterCow1",
+  "license": "gpl-3.0",
+  "scripts": 
+  {
+    "client": " cd client & npm run start & cd ../"
+  },
+  "repository": 
+  {
+    "type": "git",
+    "url": "git+https://github.com/MisterCow1/mistercow1.dev.git"
+  },
+  "bugs": 
+  {
+    "url": "https://github.com/MisterCow1/mistercow1.dev/issues"
+  },
+  "homepage": "https://github.com/MisterCow1/mistercow1.dev#readme"
+}

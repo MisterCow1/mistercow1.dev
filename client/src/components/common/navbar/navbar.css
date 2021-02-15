@@ -1,0 +1,35 @@
+.navbar
+{
+    background-color: rgb(109, 109, 109);
+    overflow: hidden;
+}
+.navbar a
+{
+    float: right;
+    color: rgb(255, 255, 255);
+    padding: 22px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+}
+.navbar a:hover
+{
+    background-color: rgb(78, 78, 78);
+}
+.navbar a.active
+{
+    background-color: rgb(10, 83, 0);
+    color: white;
+}
+.pfp-container
+{
+    float: left;
+}
+.pfp
+{
+    margin: 10px;
+    width: 55%;
+    height: 55%;
+    border-radius: 25%;
+    align-content: center;
+}
